@@ -128,6 +128,33 @@ thankyou AtsushiSakai!
 
 --ou minghua
 
+---
+
+Dear AtsushiSakai <br>Thank You
+
+--Dogukan Altay
+
+---
+
+so kind of you can you make videos of it.
+
+---
+
+Dear AtshshiSakai, <br>You are very wise and smart that you created this library for students wanting to learn Probabilistic Robotics and actually perform robot control. <br>Hats off to you and your work. <br>I am also reading your book titled : Python Robotics
+
+--Himanshu
+
+---
+
+Dear AtsushiSakai, <br>Hello! YOUR CODE IS SUPER SUPER HELPFUL AND GIVES ME CLEAR INSTRUCTIONs as well as STRONG SUPPORT!! <br>Thank you so much !
+
+--Lee
+
+---
+
+Hi AtsushiSakai, <br> <br>Thanks for creating the pythonrobotics repo! It's an awesome repo that has been of great help to me. I've referenced your extended kalman filter algorithm while creating my own for localization using a 2D lidar, camera, and IMU. Our robot is destined to compete soon, so fingers crossed that all works out! Thanks again.
+
+
 =========
 
 # Citations
